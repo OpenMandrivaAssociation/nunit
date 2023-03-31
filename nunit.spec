@@ -2,7 +2,7 @@
 
 Name:           nunit
 Version:        2.6.4
-Release:        1
+Release:        2
 Summary:        Unit test framework for CLI
 License:        MIT with advertising
 Group:          Development/C
