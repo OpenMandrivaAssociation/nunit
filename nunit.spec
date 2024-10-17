@@ -6,7 +6,7 @@ Release:        2
 Summary:        Unit test framework for CLI
 License:        MIT with advertising
 Group:          Development/C
-Url:            http://www.nunit.org/
+Url:            https://www.nunit.org/
 Source0:        https://github.com/nunit/nunit/archive/%{name}v2-%{version}.tar.gz
 Source1:        nunit.pc
 Source2:        nunit-gui.sh
